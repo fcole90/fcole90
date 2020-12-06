@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Fabio Colella and I'm a MSc Student in Computer Science / Machine Learning. I like studying about HCI, interactive Machine Learning and game development. Team worker, curious, creative and thinking out of the box.
+MSc Student in CS with a human touch. Software development, interactive ML, HCI and UI. Team worker, curious, creative and thinking out of the box.
 
 You can find me also on
   - **in** -  https://www.linkedin.com/in/fcole90/ (Academic and work achievements)
