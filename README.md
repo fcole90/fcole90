@@ -1,14 +1,17 @@
 ### Hi there 👋
-MSc Student in CS with a human touch. Software development, interactive ML, HCI and UI. Team worker, curious, creative and thinking out of the box.
+Software and Web Development, with a human touch. AI and Interactive Machine Learning. Team worker, curious, creative and thinking out of the box.
 
-You can find me also on
-  - **in** -  https://www.linkedin.com/in/fcole90/ (Academic and work achievements)
+To discover more about me, check my Linked**
+  - **in** -  https://www.linkedin.com/in/fcole90/ (Projects, studies, skills and work achievements)
   - 🐦 -  https://twitter.com/fcole90  (Random stuff I get interested into)
   
 
-Check out my recent work on User's behaviour in interactive Machine Learning at "[**A!** Aalto University](https://research.cs.aalto.fi/pml/)":
+
+
+#### Web-app to understand why some users "lie" to AI agents
+Check out my work on a web application to study users' behaviour in interactive Machine Learning at "[**A!** Aalto University](https://research.cs.aalto.fi/pml/)":
   - 💡 Users may "lie" to AI, to reach a common good. [See why and how!](https://fcole90.github.io/interactive_bayesian_optimization/)
-  - 👆 Try it yourself with the [interactive online demo](https://fcole90.github.io/interactive_bayesian_optimization/demo.html)!
+  - 👆 Try it yourself with the (serverless) [interactive online demo](https://fcole90.github.io/interactive_bayesian_optimization/demo.html)!
   - 📺 Video presentation on [YouTube](https://youtu.be/4noJRNVK9Ro)
   - 📜 ACM UMAP 2020 Paper [doi.org/10.1145/3340631.3394883](doi.org/10.1145/3340631.3394883)
 
