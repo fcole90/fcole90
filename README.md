@@ -1,7 +1,7 @@
 ### Hi there 👋
 Software and Web Development, with a human touch. AI and Interactive Machine Learning. Team worker, curious, creative and thinking out of the box.
 
-To discover more about me, check my Linked**In** profile: https://www.linkedin.com/in/fcole90/
+To discover more about me, check my [**Linked【in】** profile](https://www.linkedin.com/in/fcole90/).
 
 ### Some projects of mine
 
