@@ -19,7 +19,7 @@ I completed the 2020 edition of the course, at University of Helsinki, with the 
     alt="Certificate of Completion, FullStack Open 2020, with 9 credits and grade 5, code b92da142ab1ccc25cc941a78b88727d3"
     src="https://user-images.githubusercontent.com/1292230/112140085-3b5dc880-8bdc-11eb-937a-00d53f7e5ee5.png" 
     data-credential-id="b92da142ab1ccc25cc941a78b88727d3" 
-    width="200"
+    width="250"
   />
 </a>
 <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fs-cicd/en/5f791e3aad66e333cda25997d626b511">
@@ -27,7 +27,7 @@ I completed the 2020 edition of the course, at University of Helsinki, with the 
     alt="Certificate of Completion, FullStack Open 2020 CI/CD, with grade 5, code 5f791e3aad66e333cda25997d626b511"
     src="https://user-images.githubusercontent.com/1292230/112140157-56303d00-8bdc-11eb-8cb7-d011cb07d2b4.png" 
     data-credential-id="5f791e3aad66e333cda25997d626b511" 
-    width="200"
+    width="250"
   />
 </a>
 <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fs-react-native-2020/en/28b563abbc858f6ba39d515f6e82133c">
@@ -35,7 +35,7 @@ I completed the 2020 edition of the course, at University of Helsinki, with the 
     alt="Certificate of Completion, FullStack Open 2020 React Native, with grade 5, code 28b563abbc858f6ba39d515f6e82133c"
     src="https://user-images.githubusercontent.com/1292230/112140231-6f38ee00-8bdc-11eb-932f-f4002fc25c22.png" 
     data-credential-id="28b563abbc858f6ba39d515f6e82133c" 
-    width="200"
+    width="250"
   />
 </a>
 
