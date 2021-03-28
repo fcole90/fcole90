@@ -7,7 +7,7 @@ Check out my [**Linked【in】** profile](https://www.linkedin.com/in/fcole90/).
 
 #### Full Stack Web development course
 I completed the 2020 edition of the course, at University of Helsinki, with the highest grade and credits. Some content at a glance:
- - **Frontend:** React.js, function components and hooks, Redux, React Router, CSS in JS, Promises and async/await, Axios, Apollo, Token Auth, Formix, yup (form validation) 
+ - **Frontend:** React.js, function components and hooks, Redux, React Router, CSS in JS, Promises and async/await, Axios, Apollo, Token Auth, Formik, yup (form validation) 
  - **Backend:** ExpressJS, Mongoose, User administration and authentication
  - **Testing and CI/CD:** jest, unit test, integration testing, coverage, Cypress E2E, Github Actions
  - **Misc:** Node.js, Babel, ESlint, npm, WebPack, GraphQL, Typescript, React Native, Material UI, git, Heroku
