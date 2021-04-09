@@ -3,9 +3,7 @@ Software and web development, with a human touch. AI and Interactive Machine Lea
 
 Check out my [**Linked【in】** profile](https://www.linkedin.com/in/fcole90/).
 
-### Some relevant achievements
-
-#### Full Stack Web development course
+## Full Stack Web development course
 I completed the 2020 edition of the course, at University of Helsinki, with the highest grade and credits. Some content at a glance:
  - **Frontend:** React.js, function components and hooks, Redux, React Router, CSS in JS, Promises and async/await, Axios, Apollo, Token Auth, Formik, yup (form validation) 
  - **Backend:** ExpressJS, Mongoose, User administration and authentication
@@ -39,6 +37,44 @@ I completed the 2020 edition of the course, at University of Helsinki, with the 
   />
 </a>
 
+## Rate Repository App
+
+React Native app for browsing and rating repositories
+interacting with a GraphQL backend and using token-based authentication
+
+
+<table>
+  <tr>
+   <td>
+    <h3>You can try it online!</h3>
+    <p>
+     First install the Expo App for <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www">Android</a>
+     or <a href="https://itunes.apple.com/app/apple-store/id982107779">iOS</a> and open it.<br>
+     Then scan the following QR code though the app:
+    </p>
+    <a href="https://expo.io/@fcole90/projects/rate-repository-app" target="_blank">
+      <img 
+       src="https://user-images.githubusercontent.com/1292230/112733252-74cd6580-8f47-11eb-8a07-56944cc44e24.png"
+       alt="QR code for the app"
+      />
+    </a>
+   </td>
+   <td>
+    <a href="https://expo.io/@fcole90/projects/rate-repository-app" target="_blank">
+      <img 
+       src="https://user-images.githubusercontent.com/1292230/112733102-9c6ffe00-8f46-11eb-9e6a-5ce9730abae9.png"
+       height=400
+       alt="Screenshot of the application"
+      />
+    </a>
+   </td>
+  </tr>
+</table>
+
+ 
+
+
+  
 
 #### Web-app to understand why some users "lie" to AI agents
 Check out my work on a web application to study users' behaviour in interactive Machine Learning at "[**A!** Aalto University](https://research.cs.aalto.fi/pml/)":
