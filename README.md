@@ -1,7 +1,7 @@
 ### Hi there 👋 What do I do? Who am I?
 Software and web development, with a human touch. AI and Interactive Machine Learning. Team worker, curious, creative and thinking out of the box.
 
-Check out my [**Linked【in】** profile](https://www.linkedin.com/in/fcole90/).
+Check out my <br>[**Linked【in】** profile](https://www.linkedin.com/in/fcole90/).
 
 ## Full Stack Web development course
 I completed the 2020 edition of the course, at University of Helsinki, with the highest grade and credits. Some content at a glance:
