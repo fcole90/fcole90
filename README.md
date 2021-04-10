@@ -76,7 +76,7 @@ interacting with a GraphQL backend and using token-based authentication
 
   
 
-#### Web-app to understand why some users "lie" to AI agents
+## User Interaction: why some users "lie" to AI agents?
 Check out my work on a web application to study users' behaviour in interactive Machine Learning at "[**A!** Aalto University](https://research.cs.aalto.fi/pml/)":
   - 💡 Users may "lie" to an AI agent, [see why and how!](https://fcole90.github.io/interactive_bayesian_optimization/)
   - 👆 Try the app yourself with the (serverless) [interactive demo](https://fcole90.github.io/interactive_bayesian_optimization/demo.html)!
