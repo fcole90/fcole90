@@ -13,7 +13,7 @@ Some content at a glance:
  - **Misc:** Node.js, Babel, ESlint, npm, WebPack, GraphQL, Typescript, React Native, Material UI, git, Heroku
 
 
-##### ✅ Certificates 📜📜📜
+##### Certificates 📜📜📜
 <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/b92da142ab1ccc25cc941a78b88727d3">
   <img
     alt="Certificate of Completion, FullStack Open 2020, with 9 credits and grade 5, code b92da142ab1ccc25cc941a78b88727d3"
