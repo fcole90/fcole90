@@ -88,7 +88,7 @@ interacting with a [GraphQL](https://graphql.org/users/) backend and using token
 <sup>TypeScript Formik Yup React Semantic UI HTML5 CSS3 ExpressJS</sup><br>
 <sup><a href="https://github.com/fcole90/patientor"> 🔗 fcole90/patientor </a></sup>
 
-[Typescript app](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) for managing patients' health records. 
+[TypeScript app](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) for managing patients' health records. 
 Using [Semantic UI](https://react.semantic-ui.com/), [Formik](https://formik.org/) and [Yup](https://github.com/jquense/yup).
 
 <a href="https://patientor-fcole90.herokuapp.com/">
