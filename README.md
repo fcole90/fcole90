@@ -118,7 +118,7 @@ Using [Semantic UI](https://react.semantic-ui.com/), [Formik](https://formik.org
 Check out my work on a web application to study users' behaviour in interactive Machine Learning at [**A!** Aalto University](https://research.cs.aalto.fi/pml/)
 
 <a href="https://youtu.be/4noJRNVK9Ro">
- <img src="https://user-images.githubusercontent.com/1292230/114387366-04efe980-9b9b-11eb-8e04-c33cfa17df9b.png" width="450"/>
+ <img src="https://user-images.githubusercontent.com/1292230/114387366-04efe980-9b9b-11eb-8e04-c33cfa17df9b.png" width="640"/>
 </a>
 
   - 💡 Users may "lie" to an AI agent, [see why and how!](https://fcole90.github.io/interactive_bayesian_optimization/)
