@@ -14,10 +14,10 @@ Software and web development, with a human touch. AI and Interactive Machine Lea
 I completed the 2020 edition of the course, at University of Helsinki, with the highest grade and credits. 
 
 Some content at a glance:
- - **Frontend:** React.js, function components and hooks, Redux, React Router, CSS in JS, Promises and async/await, Axios, Apollo, Token Auth, Formik, yup (form validation) 
+ - **Frontend:** React.js, function components and hooks, Redux, React Router, CSS in JS, Promises and async/await, Axios, Apollo, Token Auth, Formik, Yup (form validation) 
  - **Backend:** ExpressJS, Mongoose, User administration and authentication
  - **Testing and CI/CD:** jest, unit test, integration testing, code coverage, Cypress E2E, Github Actions
- - **Misc:** Node.js, Babel, ESlint, npm, WebPack, GraphQL, Typescript, React Native, Material UI, git, Heroku
+ - **Misc:** Node.js, Babel, ESlint, npm, WebPack, GraphQL, TypeScript, React Native, Material UI, git, Heroku
 
 
 ##### Certificates 📜📜📜
