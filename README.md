@@ -1,7 +1,14 @@
 ### Hi there 👋 What do I do? Who am I? 
 Software and web development, with a human touch. AI and Interactive Machine Learning. Team worker, curious, creative and thinking out of the box.
 
-Check out my <br>[**Linked【in】** profile](https://www.linkedin.com/in/fcole90/).
+
+<a href="https://www.linkedin.com/in/fcole90/">
+ <p> Check out my profile on <br>
+ <img height="28" src="https://user-images.githubusercontent.com/1292230/114427390-b86cd400-9bc3-11eb-8eb4-be385202708e.png" alt="Linked In">
+ </p>
+</a>
+
+<!-- [**Linked【in】** profile](https://www.linkedin.com/in/fcole90/). -->
 
 ## 👨‍💻 Full Stack Web development 
 I completed the 2020 edition of the course, at University of Helsinki, with the highest grade and credits. 
@@ -40,7 +47,8 @@ Some content at a glance:
 </a>
 
 ## 📱 Rate Repository App
-[📦 fcole90/rate-repository-app](https://github.com/fcole90/rate-repository-app)<br>
+<sup><a href="https://github.com/fcole90/rate-repository-app">🔗 fcole90/rate-repository-app 📦</a></sup>
+
 [📱 React Native app](https://reactnative.dev/) for browsing and rating repositories,
 interacting with a [GraphQL](https://graphql.org/users/) backend and using token-based authentication
 
