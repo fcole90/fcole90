@@ -114,8 +114,8 @@ Using [Semantic UI](https://react.semantic-ui.com/), [Formik](https://formik.org
 
   
 
-## 🖱️📈 User Interaction Study: why some users "lie" to AI agents?
-Check out my work on a web application to study users' behaviour in interactive Machine Learning at "[**A!** Aalto University](https://research.cs.aalto.fi/pml/)"
+## 📈🖱️ User Interaction Study: why some users "lie" to AI agents?
+Check out my work on a web application to study users' behaviour in interactive Machine Learning at [**A!** Aalto University](https://research.cs.aalto.fi/pml/)
 
 <a href="https://youtu.be/4noJRNVK9Ro">
  <img src="https://user-images.githubusercontent.com/1292230/114385855-2e0f7a80-9b99-11eb-8003-5035ba704a22.png" alt="YouTube video preview" width="600"/>
