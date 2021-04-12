@@ -47,7 +47,8 @@ Some content at a glance:
 </a>
 
 ## 📱 Rate Repository App
-<sup><a href="https://github.com/fcole90/rate-repository-app">🔗 fcole90/rate-repository-app 📦</a></sup>
+<sup>ReactNative JavaScript GraphQL Material UI Yup CSSinJS Apollo</sup><br>
+<sup><a href="https://github.com/fcole90/rate-repository-app">🔗 fcole90/rate-repository-app</a></sup>
 
 [📱 React Native app](https://reactnative.dev/) for browsing and rating repositories,
 interacting with a [GraphQL](https://graphql.org/users/) backend and using token-based authentication
@@ -84,6 +85,9 @@ interacting with a [GraphQL](https://graphql.org/users/) backend and using token
 
 
 ## 🧑‍⚕️ Patientor / Health Records Manager
+<sup>TypeScript Formik Yup React Semantic UI HTML5 CSS3 ExpressJS</sup><br>
+<sup><a href="https://github.com/fcole90/patientor"> 🔗 fcole90/patientor </a></sup>
+
 [Typescript app](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) for managing patients' health records. 
 Using [Semantic UI](https://react.semantic-ui.com/), [Formik](https://formik.org/) and [Yup](https://github.com/jquense/yup).
 
@@ -96,30 +100,46 @@ Using [Semantic UI](https://react.semantic-ui.com/), [Formik](https://formik.org
   <p>Try it now</p>
 </a>
     
-<!--
-<table>
-  <tr>
-   <td>
-    Typescript app for managing patients' health records.<br> 
-    Using <a href="https://react.semantic-ui.com/">Semantic UI</a>,
-    <a href="https://formik.org/">Formik</a> and <a href="https://github.com/jquense/yup">Yup</a>.
-   </td>
-   <td>
-    <a href="https://patientor-fcole90.herokuapp.com/">
-      <img 
-       src="https://user-images.githubusercontent.com/1292230/112727303-a1bf4f80-8f2a-11eb-8d64-4151851bc53d.png"
-       alt="Screenshot of the app showing patient details of Dana Scully"
-       height=400
-      />
-      <p>Try it now</p>
-    </a>
-   </td>
-  </tr>
-</table>
--->
+## 🧬 Folding@Home / Snap Universal Linux Package 📦
+<sup>YAML Shell-Script CI/CD Linux-packaging</sup><br>
+<sup><a href="https://github.com/fcole90/fah-snap"> 🔗 fcole90/fah-snap </a></sup>
+
+[Snap package](https://snapcraft.io/about) of [Folding at Home](https://foldingathome.org/about/) with CI/CD with autorebuid upon depencencies CVE detection.
+
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/folding-at-home-fcole90)
  
+<a href="https://snapcraft.io/folding-at-home-fcole90" target="_blank">
+  <img src="https://user-images.githubusercontent.com/1292230/83427711-d319dc80-a439-11ea-949f-95fafa805886.png" />
+</a>
 
 
+## 🎨 Handsketch / Gestural Image Editor
+<sup>HTML5 CSS3 JavaScript jQuery LeapMotion</sup><br>
+<sup><a href="https://github.com/fcole90/handsketch"> 🔗 fcole90/handsketch </a></sup>
+
+![Handsketch Screenshot](https://user-images.githubusercontent.com/1292230/112760327-2f6c6f00-8fff-11eb-8b0e-e98d3b5256ef.png)
+
+ - [Try online demo (without LeapMotion support)](https://fcole90.github.io/handsketch/)
+ - [Play demonstration animation](https://github.com/fcole90/handsketch/blob/master/demo.md)
+
+### Award 🏅
+Best and exemplary HCI projects of the academic year 2015/2016: our project was selected by the professor as one of the three best HCI projects of the academic year 2015/2016 and is preserved as an exemplary project in the professor's project archive.<br>
+Link (in Italian): https://people.unica.it/davidespano/teaching/ium/archivio-progetti/
+
+
+## 🚢 Fisherman’s Locator
+<sup>PHP MySQL HTML5 CSS3 JavaScript jQuery</sup><br>
+<sup><a href="https://github.com/fcole90/fisherman-locator"> 🔗 fcole90/fisherman-locator </a></sup>
+
+This website helps you finding where to buy the famous [Fisherman's Friends®](https://fishermansfriend.com/) Lozenges.
+
+<a href="https://fisherman-locator.herokuapp.com/index.php" target="_blank">
+  <img 
+   src="https://user-images.githubusercontent.com/1292230/112669045-e6ce7d80-8e67-11eb-8c53-c0410e1be527.png"
+   alt="Screenshot of the website through an IPhone"
+   height="450"
+   />
+</a>
   
 
 ## 📈🖱️ User Interaction Study: why some users "lie" to AI agents?
