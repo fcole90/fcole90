@@ -100,19 +100,6 @@ Using [Semantic UI](https://react.semantic-ui.com/), [Formik](https://formik.org
   <p>Try it now</p>
 </a>
     
-## 🧬 Folding@Home / Snap Universal Linux Package 📦
-<sup>YAML Shell-Script CI/CD Linux-packaging</sup><br>
-<sup><a href="https://github.com/fcole90/fah-snap"> 🔗 fcole90/fah-snap </a></sup>
-
-[Snap package](https://snapcraft.io/about) of [Folding at Home](https://foldingathome.org/about/) with CI/CD with autorebuid upon depencencies CVE detection.
-
-[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/folding-at-home-fcole90)
- 
-<a href="https://snapcraft.io/folding-at-home-fcole90" target="_blank">
-  <img src="https://user-images.githubusercontent.com/1292230/83427711-d319dc80-a439-11ea-949f-95fafa805886.png" />
-</a>
-
-
 ## 🎨 Handsketch / Gestural Image Editor
 <sup>HTML5 CSS3 JavaScript jQuery LeapMotion</sup><br>
 <sup><a href="https://github.com/fcole90/handsketch"> 🔗 fcole90/handsketch </a></sup>
@@ -140,7 +127,18 @@ This website helps you finding where to buy the famous [Fisherman's Friends®](h
    height="450"
    />
 </a>
-  
+
+## 🧬 Folding@Home / Snap Universal Linux Package 📦
+<sup>YAML Shell-Script CI/CD Linux-packaging</sup><br>
+<sup><a href="https://github.com/fcole90/fah-snap"> 🔗 fcole90/fah-snap </a></sup>
+
+[Snap package](https://snapcraft.io/about) of [Folding at Home](https://foldingathome.org/about/) with CI/CD with autorebuid upon depencencies CVE detection.
+
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/folding-at-home-fcole90)
+ 
+<a href="https://snapcraft.io/folding-at-home-fcole90" target="_blank">
+  <img src="https://user-images.githubusercontent.com/1292230/83427711-d319dc80-a439-11ea-949f-95fafa805886.png" />
+</a>
 
 ## 📈🖱️ User Interaction Study: why some users "lie" to AI agents?
 <sup>HTML5 CSS3 Python Interactive Machine Learning User Studies</sup><br>
