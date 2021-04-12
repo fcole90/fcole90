@@ -143,16 +143,25 @@ This website helps you finding where to buy the famous [Fisherman's Friends®](h
   
 
 ## 📈🖱️ User Interaction Study: why some users "lie" to AI agents?
+<sup>HTML5 CSS3 Python Interactive Machine Learning User Studies</sup><br>
+<sup><a href="https://github.com/fcole90/handsketch"> 🔗 fcole90/handsketch </a></sup>
+
 Check out my work on a web application to study users' behaviour in interactive Machine Learning at [**A!** Aalto University](https://research.cs.aalto.fi/pml/)
+
+<p><em>Human Strategic Steering Improves Performance of Interactive Optimization</em> <a href="https://arxiv.org/abs/2005.01291">🔗</a><br>
+ <sup>Fabio Colella, Pedram Daee, Jussi Jokinen, Antti Oulasvirta, Samuel Kaski</sup>
+</p>
 
 <a href="https://youtu.be/4noJRNVK9Ro">
  <img src="https://user-images.githubusercontent.com/1292230/114387366-04efe980-9b9b-11eb-8e04-c33cfa17df9b.png" width="460"/>
 </a>
 
+
+
   - 💡 Users may "lie" to an AI agent, [see why and how!](https://fcole90.github.io/interactive_bayesian_optimization/)
   - 👆 Try the app yourself with the (serverless) [interactive demo](https://fcole90.github.io/interactive_bayesian_optimization/demo.html)!
   - 📺 I presented this work at the UMAP 2020 conference. [Watch it on YouTube](https://youtu.be/4noJRNVK9Ro)
-  - 📜 ACM UMAP 2020 Paper [doi.org/10.1145/3340631.3394883](doi.org/10.1145/3340631.3394883)
+  - 📜 ACM UMAP 2020 Paper [doi.org/10.1145/3340631.3394883](https://dl.acm.org/doi/10.1145/3340631.3394883)
 
 
 <!--
