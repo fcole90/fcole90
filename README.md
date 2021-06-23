@@ -142,7 +142,7 @@ This website helps you finding where to buy the famous [Fisherman's Friends®](h
 
 ## 📈🖱️ User Interaction Study: why some users "lie" to AI agents?
 <sup>HTML5 CSS3 Python Interactive Machine Learning User Studies</sup><br>
-<sup><a href="https://github.com/fcole90/handsketch"> 🔗 fcole90/handsketch </a></sup>
+<sup><a href="https://github.com/fcole90/interactive_bayesian_optimization"> 🔗 https://github.com/fcole90/interactive_bayesian_optimization </a></sup>
 
 Check out my work on a web application to study users' behaviour in interactive Machine Learning at [**A!** Aalto University](https://research.cs.aalto.fi/pml/)
 
